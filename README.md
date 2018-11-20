@@ -8,7 +8,7 @@ we need open two terminals and npm start both of them
 
 there are some imgs to introduce this web
 
-npm install   to get node-module
+npm install should be done inside my-play-list folder  to get node-module
 
 
 Note:
